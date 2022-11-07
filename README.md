@@ -54,4 +54,6 @@ Python) </a> (Feb 2022) University of Michigan</li>
 <li> <a href="https://www.coursera.org/account/accomplishments/verify/RT6BUSCMDHKG">SQL for Data Science </a> (Feb 2022) University of Califorina, Davis</li>
 
 
-#Contacts
+# Contacts
+<li> Linkedin:  <a href="https://www.linkedin.com/in/ahmadazari/"> @AhmadAzari </a> </li>
+<li> Email: TheAhmadAzari@gmail.com </li>
