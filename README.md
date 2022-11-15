@@ -42,7 +42,7 @@ In this section I will list data analytics projects briefly describing the techn
 <h2>Python</h2> 
 
 <h3> Marketing Strategy analysis </h3> 
-<b>Code</b>: video_games_sales.ipynb  </br>
+<b>Code</b>:   <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Marketing%20Strategy.ipynb">Marketing Strategy.ipynb</a>  </br>
 <b>Description</b>: The dataset contains 2976 records. There is a list of client types, revenue collected and marketing campaign spending. The marketing strategies that were used is email, flyer, phone, sales contant 1, 2, 3, 4 and 5. The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA) and statisitical analysis, final recommendations. </br>
 <b>Skills</b>: data cleaning, data analysis, descriptive statistics, correlation analysis, data visualization. </br>
 <b>Technology</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib. </br>
