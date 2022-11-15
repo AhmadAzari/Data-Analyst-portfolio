@@ -58,6 +58,21 @@ In this section I will list data analytics projects briefly describing the techn
 <b>Technology</b>: Python, Pandas, Numpy, Seaborn, Matplotlib. </br>
 <b>Results</b>: Several questions have been answered for the sales team, this includes best sales months, cities with most products sold, time to display ads for boosting customer attraction, bulk sales analysis and most products sold.
 
+<h2>Power BI</h2> 
+
+<h3> Maven Pizza Project </h3> 
+<b>Dashboard</b>:   <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Python%20Projects/Marketing%20Project/Marketing%20Strategy.ipynb">Marketing Strategy.ipynb</a>  </br>
+<b>Description</b>: The dataset contains 2976 records. There is a list of client types, revenue collected and marketing campaign spending. The marketing strategies that were used is email, flyer, phone, sales contant 1, 2, 3, 4 and 5. The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA) and statisitical analysis, final recommendations. </br>
+<b>Skills</b>: data cleaning, data analysis, business analysis, DAX,  data visualization. </br>
+<b>Technology</b>: PowerBI, SQL, Python, Pandas, Numpy, Matplotlib </br>
+<b>Results</b>: The creation of a multi-variable correlation chart for each of the client types for their marketing strategy. Using this, the marketing team can target clients based on their types more strategically without wasting budget. 
+
+<h3>Boston Crime Rate Visualization </h3> 
+<b>Dashboard</b>:<a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Python%20Projects/Sales%20Analysis/Sales%20Analysis.ipynb">Sales Analysis.ipynb</a>  </br>
+<b>Description</b>: The dataset contains 186850  records. The dataset has the order_id, product, quantity, price per item, date and address. The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA) and answering business questions. /br>
+<b>Skills</b>: data cleaning, data analysis, DAX,  data visualization. </br>
+<b>Technology</b>:PowerBI, SQL, Python, Pandas, Numpy, Matplotlib </br>
+<b>Results</b>: Several questions have been answered for the sales team, this includes best sales months, cities with most products sold, time to display ads for boosting customer attraction, bulk sales analysis and most products sold.
 
 
 # Certificates
