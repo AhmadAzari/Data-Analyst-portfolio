@@ -9,13 +9,13 @@ I had taken the time to complete several coursera courses in SQL and Python and 
 
 # Table of contents
 
-<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/main/README.md#about">About</a></li>
-<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#portfolio-projects">Portfolio Projects</a></li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#about">About</a></li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#portfolio-projects">Portfolio Projects</a></li>
  <ul>
- <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#python">Python</a></li>
+ <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#python">Python</a></li>
  <ul>
-      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#-marketing-strategy-analysis-">Marketing Strategy</a></li>
-      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#-marketing-strategy-analysis-">Sales Exploration</a></li>
+      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#-marketing-strategy-analysis-">Marketing Strategy</a></li>
+      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#-marketing-strategy-analysis-">Sales Exploration</a></li>
     </ul>
     </ul>
  <li>SQL</li>
@@ -34,8 +34,8 @@ I had taken the time to complete several coursera courses in SQL and Python and 
       <li>Sales Visualization</li>
     </ul>
  
-<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#certificates">Certificates</a></li>
-<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#contacts">Contacts</a></li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#certificates">Certificates</a></li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#contacts">Contacts</a></li>
 
 
 # Portfolio Projects 
