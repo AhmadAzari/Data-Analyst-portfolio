@@ -9,12 +9,14 @@ I had taken the time to complete several coursera courses in SQL and Python and 
 
 # Table of contents
 
-<li>About</li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#about">About</a></li>
 <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#portfolio-projects">Portfolio Projects</a></li>
- <li>Python</li>
  <ul>
-      <li>Marketing Strategy</li>
-      <li>Sales Exploration</li>
+ <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#python">Python</a></li>
+ <ul>
+      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#-marketing-strategy-analysis-">Marketing Strategy</a></li>
+      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#-marketing-strategy-analysis-">Sales Exploration</a></li>
+    </ul>
     </ul>
  <li>SQL</li>
  <ul>
@@ -33,7 +35,8 @@ I had taken the time to complete several coursera courses in SQL and Python and 
     </ul>
  
 <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#certificates">Certificates</a></li>
-<li>Contacts</li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/edit/main/README.md#contacts">Contacts</a></li>
+
 
 # Portfolio Projects 
 
@@ -47,6 +50,13 @@ In this section I will list data analytics projects briefly describing the techn
 <b>Skills</b>: data cleaning, data analysis, descriptive statistics, correlation analysis, data visualization. </br>
 <b>Technology</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib. </br>
 <b>Results</b>: The creation of a multi-variable correlation chart for each of the client types for their marketing strategy. Using this, the marketing team can target clients based on their types more strategically without wasting budget. 
+
+<h3>Sales analysis </h3> 
+<b>Code</b>:   <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Python%20Projects/Sales%20Analysis/Sales%20Analysis.ipynb">Sales Analysis.ipynb</a>  </br>
+<b>Description</b>: The dataset contains 186850  records. The dataset has the order_id, product, quantity, price per item, date and address. The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA) and answering business questions. /br>
+<b>Skills</b>: data cleaning, data analysis, business analysis, data visualization. </br>
+<b>Technology</b>: Python, Pandas, Numpy, Seaborn, Matplotlib. </br>
+<b>Results</b>: Several questions have been answered for the sales team, this includes best sales months, cities with most products sold, time to display ads for boosting customer attraction, bulk sales analysis and most products sold.
 
 
 
