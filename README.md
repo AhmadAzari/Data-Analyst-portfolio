@@ -9,7 +9,7 @@ I had taken the time to complete several coursera courses in SQL and Python and 
 
 # Table of contents
 
-<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/about">About</a></li>
+<li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#about">About</a></li>
 <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#portfolio-projects">Portfolio Projects</a></li>
  <ul>
  <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/README.md#python">Python</a></li>
