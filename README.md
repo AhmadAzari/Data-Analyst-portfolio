@@ -24,7 +24,7 @@ I had taken the time to complete several coursera courses in SQL and Python and 
       <li>Sales RFM Analysis</li>
       <li>Boston Crime Rate Analysis and Ranking</li>
     </ul>
- <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#power-bi">Power BI and SQL</a></li>   
+ <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#power-bi-and-sql">Power BI and SQL</a></li>   
   <ul>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-maven-pizza-project-">Maven Pizza Project</a></li>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#boston-crime-rate-visualization-">Boston Crime Rate Visualization</a></li>
