@@ -28,8 +28,6 @@ I had taken the time to complete several coursera courses in SQL and Python and 
   <ul>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-maven-pizza-project-">Maven Pizza Project</a></li>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#boston-crime-rate-visualization-">Boston Crime Rate Visualization</a></li>
-      <li>Maven Pizza Project</li>
-      <li>Boston Crime Rate Visualization</li>
     </ul>
  <li>Tableau</li>
   <ul>
