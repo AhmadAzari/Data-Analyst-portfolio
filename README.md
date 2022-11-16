@@ -17,7 +17,7 @@ I had taken the time to complete several coursera courses in SQL and Python and 
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-marketing-strategy-analysis-">Marketing Strategy</a></li>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#sales-analysis-">Sales Exploration</a></li>
     </ul>
-    </ul>
+  
  <li>SQL</li>
  <ul>
       <li>Housing Data Clean up</li>
@@ -33,7 +33,7 @@ I had taken the time to complete several coursera courses in SQL and Python and 
   <ul>
       <li>Sales Visualization</li>
     </ul>
- 
+ </ul>
 <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#certificates">Certificates</a></li>
 <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#contacts">Contacts</a></li>
 
