@@ -26,8 +26,8 @@ I had taken the time to complete several coursera courses in SQL and Python and 
     </ul>
  <li>Power BI</li>
   <ul>
-      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#certificates">Maven Pizza Project</a></li>
-      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#certificates">Boston Crime Rate Visualization</a></li>
+      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-maven-pizza-project-">Maven Pizza Project</a></li>
+      <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#boston-crime-rate-visualization-">Boston Crime Rate Visualization</a></li>
       <li>Maven Pizza Project</li>
       <li>Boston Crime Rate Visualization</li>
     </ul>
@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 <h3>Sales analysis </h3> 
 <b>Code</b>:   <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Python%20Projects/Sales%20Analysis/Sales%20Analysis.ipynb">Sales Analysis.ipynb</a>  </br>
 <b>Description</b>: The dataset contains 186850  records. The dataset has the order_id, product, quantity, price per item, date and address. The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA) and answering business questions. </br>
-<b>Skills</b>: data cleaning, data analysis, business analysis, data visualization. </br>
+<b>Skills</b>: Data cleaning, data analysis, business analysis, data visualization. </br>
 <b>Technology</b>: Python, Pandas, Numpy, Seaborn, Matplotlib. </br>
 <b>Results</b>: Several questions have been answered for the sales team, this includes best sales months, cities with most products sold, time to display ads for boosting customer attraction, bulk sales analysis and most products sold.
 
@@ -66,7 +66,7 @@ In this section I will list data analytics projects briefly describing the techn
 <b>Dashboard</b>:   <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Power%20BI/Maven_Pizza_Dashboard.pdf"> Maven_Pizza_Dashboard.pdf</a>  </br>
 <b>Description</b>: This was a Maven Analytics Challenge for November 2022. The dataset contains 5 tables. The data avalaible was regarding customer orders, number of orders, types of pizzas sold, timings and dates.
 The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA)  final recommendations. </br>
-<b>Skills</b>: data cleaning, data analysis, business analysis, DAX,  data visualization. </br>
+<b>Skills</b>: Data cleaning, data analysis, business analysis, DAX,  data visualization. </br>
 <b>Technology</b>: PowerBI, SQL, Python, Pandas, Numpy, Matplotlib </br>
 <b>Results</b>: A Dashboard showcasing to the customer ( Maven Pizzaria ) their KPIs and trends. The dashboard proposed several recommendations which included changing operational time of the store to lower cost, increase seating capacity as seating order is maxed, and offering discounted items/promotional deals. 
 
@@ -74,7 +74,7 @@ The project includes the following steps: data loading and quality check, data c
 <b>Dashboard</b>:<a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Power%20BI/Boston%20Crime%20Rate%20Dashboard.pdf">Boston Crime Rate Dashboard.pdf</a>  </br>
 <b>Description</b>: The dataset was obtained by merging crime statistics from the government of boston website between 2018 and 2022, with 305596 records. The information avalaible included crime ID, type of crime, district, date, time, and location. 
 The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA). </br>
-<b>Skills</b>: data cleaning, data analysis, DAX,  data visualization. </br>
+<b>Skills</b>: Data cleaning, data analysis, DAX,  data visualization. </br>
 <b>Technology</b>:PowerBI, SQL, Python, Pandas, Numpy, Matplotlib </br>
 <b>Results</b>: I generated an interactive dashboard showcasing crime rate in different districts across different years. The dashboard also included crime rate trends, with highest crime rate in different districts with various timings, to help the Boston Government propose best solutions to combat crime in Boston. 
 
