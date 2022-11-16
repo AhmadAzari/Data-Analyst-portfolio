@@ -24,7 +24,7 @@ I had taken the time to complete several coursera courses in SQL and Python and 
       <li>Sales RFM Analysis</li>
       <li>Boston Crime Rate Analysis and Ranking</li>
     </ul>
- <li>Power BI</li>
+ <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#power-bi">Power BI and SQL</a></li>   
   <ul>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-maven-pizza-project-">Maven Pizza Project</a></li>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#boston-crime-rate-visualization-">Boston Crime Rate Visualization</a></li>
@@ -58,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 <b>Technology</b>: Python, Pandas, Numpy, Seaborn, Matplotlib. </br>
 <b>Results</b>: Several questions have been answered for the sales team, this includes best sales months, cities with most products sold, time to display ads for boosting customer attraction, bulk sales analysis and most products sold.
 
-<h2>Power BI</h2> 
+<h2>Power BI and SQL</h2> 
 
 <h3> Maven Pizza Project </h3> 
 <b>Dashboard</b>:   <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio/blob/main/Power%20BI/Maven_Pizza_Dashboard.pdf"> Maven_Pizza_Dashboard.pdf</a>  </br>
