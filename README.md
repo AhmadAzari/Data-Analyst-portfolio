@@ -23,9 +23,9 @@ I had taken the time to complete several coursera courses in SQL and Python and 
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-maven-pizza-project-">Maven Pizza Project</a></li>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#boston-crime-rate-visualization-">Boston Crime Rate Visualization</a></li>
     </ul>
- <li>Tableau</li>
+ <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#tableau-and-sql">Tableau and SQL</a></li> 
   <ul>
-      <li>Sales Visualization</li>
+       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-sales-dashboard">Sales Visualization</a></li> 
     </ul>
  </ul>
 <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#certificates">Certificates</a></li>
