@@ -18,12 +18,6 @@ I had taken the time to complete several coursera courses in SQL and Python and 
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#sales-analysis-">Sales Exploration</a></li>
     </ul>
   
- <li>SQL</li>
- <ul>
-      <li>Housing Data Clean up</li>
-      <li>Sales RFM Analysis</li>
-      <li>Boston Crime Rate Analysis and Ranking</li>
-    </ul>
  <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#power-bi-and-sql">Power BI and SQL</a></li>   
   <ul>
       <li> <a href="https://github.com/AhmadAzari/Data-Analyst-portfolio#-maven-pizza-project-">Maven Pizza Project</a></li>
@@ -75,6 +69,17 @@ The project includes the following steps: data loading and quality check, data c
 <b>Skills</b>: Data cleaning, data analysis, DAX,  data visualization. </br>
 <b>Technology</b>:PowerBI, SQL, Python, Pandas, Numpy, Matplotlib </br>
 <b>Results</b>: I generated an interactive dashboard showcasing crime rate in different districts across different years. The dashboard also included crime rate trends, with highest crime rate in different districts with various timings, to help the Boston Government propose best solutions to combat crime in Boston. 
+
+<h2>Tableau and SQL</h2> 
+
+<h3> Sales Dashboard</h3> 
+<b>Dashboard 1</b>:   <a href="https://public.tableau.com/app/profile/ahmad.azari/viz/SalesDashboard1_16635207364090/SalesDash1"> Sales Dashboard 1</a>  </br>
+<b>Dashboard 2</b>:   <a href="https://public.tableau.com/app/profile/ahmad.azari/viz/SalesDashboard2_16635207622470/SalesDash2"> Sales Dashboard 2</a>  </br>
+<b>Description</b>: The dataset contains vehicle sales in various countries. The data avalaible included order id, quantity, price, product, date, and address.
+The project includes the following steps: data loading and quality check, data cleaning, additional features and engineering, Exploartory Data Analysis (EDA)  final recommendations. </br>
+<b>Skills</b>: Data cleaning, data analysis, business analysis, DAX,  data visualization. </br>
+<b>Technology</b>: Tableau, SQL, Python, Pandas, Numpy </br>
+<b>Results</b>: A Dashboard showcasing to the customer their KPIs and trends over the past year.  
 
 
 # Certificates
